@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;}
+
+img{
+  align-content: center;
+  text-align: center;}
+
+a{
+  align-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(239, 176, 197);}
+
+figcaption{
+  font-size: x-small; 
+  align-items: center; 
+   text-align: center;}
+
+p{
+  text-align:center;
+  width: 800px; 
+  align-content: center;
+  vertical-align: sub;}
+
+.bottom-div{
+  width: 25%;
+  text-align: center;
+  background-color: rgb(6, 138, 23);  }
+
+#details div {
+  float:left ;
+  width: 25%;
+  text-align: center;
